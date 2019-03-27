@@ -4,7 +4,7 @@
 [Bb]uild/
 [Bb]uilds/
 [Pp]ackages/
-.DS_Store/
+.DS_Store
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
